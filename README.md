@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzeYeung1
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data science, NLP, deep learning
+- 🌱 I’m currently learning data science, SQL, NLP, deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
